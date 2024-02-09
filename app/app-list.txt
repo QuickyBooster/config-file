@@ -1,0 +1,8 @@
+pgAdmin
+PyCharm
+MongoDBCompass
+OpenVPN
+VSCode
+VisualStudio
+DockerDesktop
+PostMan

@@ -1,0 +1,11 @@
+this file: starship.toml also in .config
+
+- on powershell:
+
+code $PROFILE
+
+$ENV:STARSHIP_CONFIG = "$HOME\.starship\starship.toml"
+$ENV:STARSHIP_DISTRO = "者 booster"
+Invoke-Expression (&starship init powershell) 
+
+- go to starship.rs for details
