@@ -37,10 +37,10 @@ graphics{
   advancedShore:b=no
   cloudsQuality:i=2
   anisotropy:i=1
-  physicsQuality:i=1
+  physicsQuality:i=0
   compatibilityShadowQuality:t="low"
   riGpuObjects:b=yes
-  mirrorQuality:i=1
+  mirrorQuality:i=0
   fxTarget:t="low"
   waterEffectsQuality:t="low"
   clipmapScale:r=0.5
@@ -83,7 +83,7 @@ video{
   vreye:t="left"
   dlssQuality:i=-1
   perfMetrics:i=1
-  temporalResolutionScale:r=1
+  temporalResolutionScale:r=0.5
   xessQuality:i=-1
 }
 
